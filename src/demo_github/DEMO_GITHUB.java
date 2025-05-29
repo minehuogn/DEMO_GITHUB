@@ -17,6 +17,7 @@ public class DEMO_GITHUB {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Demo push tu B va pull ve may A");
+        System.out.println("Demo branch may B");
     }
     
 }
